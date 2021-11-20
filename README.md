@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 때는 이때따 서비스 (React)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
